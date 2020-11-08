@@ -1,0 +1,5 @@
+﻿  5.5.cpp
+E:\pr\5.5\5.5\5.5.cpp(25,30): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+E:\pr\5.5\5.5\5.5.cpp(34,5): error C2084: function 'int main(void)' already has a body
+E:\pr\5.5\5.5\5.5.cpp(10): message : see previous definition of 'main'
+E:\pr\5.5\5.5\5.5.cpp(43,26): warning C4129: 'm': unrecognized character escape sequence
